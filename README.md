@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vanesamena
-- 👩‍🎓 I’m Chemical Engineer
-- 👩‍💻 I’m currently learning Python programming applied to Data Science
-- 👀 I’m interested in challenging my own limits and constantly training in new technologies. 
+- Hi, I’m @vanesamena
+- I’m Chemical Engineer
+- I’m currently learning Python programming applied to Data Science
+- I’m interested in challenging my own limits and constantly training in new technologies. 
 
 
 <!---
