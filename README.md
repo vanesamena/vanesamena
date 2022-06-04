@@ -1,5 +1,4 @@
-Soy Ingeniera y actualmente estoy dando mis primeros pasos en el mundo de la Ciencia de Datos.
-
+Bienvenido a mi repo ✨
 
 <!---
 vanesamena/vanesamena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
