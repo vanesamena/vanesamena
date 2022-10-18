@@ -4,7 +4,7 @@
 ### Soy Vanesa Mena
 - Ingeniera Química y Data Scientist.
 - Actualmente trabajo en algunos interesantes proyectos de Machine Learning.
-- Me motiva descubrir desafiar mis propios límites y disfruto aprender cosas nuevas.
+- Me motiva desafiar mis propios límites y disfruto aprender y descubrir cosas nuevas.
 ---
 ## 📫 Como contactarme: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/laura-vanesa-mena/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/vanesamena) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/Vanesa_Mena_)
