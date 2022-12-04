@@ -6,5 +6,7 @@
 - Actualmente trabajo en algunos interesantes proyectos de Machine Learning.
 - Me motiva desafiar mis propios límites y disfruto aprender y descubrir cosas nuevas.
 ---
-## 📫 Como contactarme: 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/laura-vanesa-mena/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/vanesamena) [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/Vanesa_Mena_)
+## 📫 Como contactarme o saber mas de mi: 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/laura-vanesa-mena/)   [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/vanesamena)   [![Twitter](http://i.imgur.com/wWzX9uB.png) Twitter](https://twitter.com/Vanesa_Mena_)   🤗[Hugging Face](https://huggingface.co/VaneM)
+
+
