@@ -3,7 +3,7 @@
 ### Bienvenidos a mi repositorio ✨
 ### Soy Vanesa Mena
 - Ingeniera Química y Data Scientist.
-- Actualmente trabajo en algunos interesantes proyectos de Machine Learning.
+- Actualmente trabajo en algunos interesantes proyectos de Machine Learning e IA.
 - Me motiva desafiar mis propios límites y disfruto aprender y descubrir cosas nuevas.
 ---
 ## 📫 Como contactarme o saber mas de mi: 
